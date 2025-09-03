@@ -1,0 +1,4 @@
+[
+    {"timeStamp": "2025-09-03 17:02:50", "cpu": 20.0, "memory": 87.3, "disk": 81.2, "top_processes": [{"pid": 0, "name": "System Idle Process", "cpu_percent": 0.0}, {"pid": 4, "name": "System", "cpu_percent": 0.0}, {"pid": 140, "name": "", "cpu_percent": 0.0}, {"pid": 184, "name": "Registry", "cpu_percent": 0.0}, {"pid": 512, "name": "wininit.exe", "cpu_percent": 0.0}]},
+    {"timeStamp": "2025-09-03 17:03:01", "cpu": 12.8, "memory": 86.3, "disk": 81.2, "top_processes": [{"pid": 0, "name": "System Idle Process", "cpu_percent": 704.7}, {"pid": 4, "name": "System", "cpu_percent": 4.5}, {"pid": 140, "name": "", "cpu_percent": 0.0}, {"pid": 184, "name": "Registry", "cpu_percent": 0.0}, {"pid": 512, "name": "wininit.exe", "cpu_percent": 0.0}]}
+]
