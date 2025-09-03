@@ -18,7 +18,7 @@ while True:
         "cpu": psutil.cpu_percent(),
         "memory": psutil.virtual_memory().percent,
         "disk": psutil.disk_usage('/').percent,
-        "top_processes": [p.info for p in psutil.process_iter(['pid', 'name', 'cpu_percent'])][:5]
+        "top_processes": [p.info for p in psutil.process_iter(['pid', 'name', 'cpu_percent'])][:20]
     }
 
     with open(log_file, "a") as f:
